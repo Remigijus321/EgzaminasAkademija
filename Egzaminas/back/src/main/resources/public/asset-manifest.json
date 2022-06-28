@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/egzaminas/static/css/main.7deb2edc.chunk.css",
+    "main.js": "/egzaminas/static/js/main.b14122b5.chunk.js",
+    "main.js.map": "/egzaminas/static/js/main.b14122b5.chunk.js.map",
+    "runtime-main.js": "/egzaminas/static/js/runtime-main.61ffe3ed.js",
+    "runtime-main.js.map": "/egzaminas/static/js/runtime-main.61ffe3ed.js.map",
+    "static/css/2.68a81a89.chunk.css": "/egzaminas/static/css/2.68a81a89.chunk.css",
+    "static/js/2.16f59f85.chunk.js": "/egzaminas/static/js/2.16f59f85.chunk.js",
+    "static/js/2.16f59f85.chunk.js.map": "/egzaminas/static/js/2.16f59f85.chunk.js.map",
+    "static/js/3.f10450eb.chunk.js": "/egzaminas/static/js/3.f10450eb.chunk.js",
+    "static/js/3.f10450eb.chunk.js.map": "/egzaminas/static/js/3.f10450eb.chunk.js.map",
+    "index.html": "/egzaminas/index.html",
+    "precache-manifest.c8504f4e735aa23b0fa7111ff36dd73c.js": "/egzaminas/precache-manifest.c8504f4e735aa23b0fa7111ff36dd73c.js",
+    "service-worker.js": "/egzaminas/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/egzaminas/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.7deb2edc.chunk.css.map": "/egzaminas/static/css/main.7deb2edc.chunk.css.map",
+    "static/js/2.16f59f85.chunk.js.LICENSE.txt": "/egzaminas/static/js/2.16f59f85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ffe3ed.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.16f59f85.chunk.js",
+    "static/css/main.7deb2edc.chunk.css",
+    "static/js/main.b14122b5.chunk.js"
+  ]
+}
